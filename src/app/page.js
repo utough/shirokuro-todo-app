@@ -46,6 +46,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             Read our docs
+            test
           </a>
         </div>
       </main>
